@@ -23,10 +23,10 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Pratyay Sapovadiya"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  pronouns         : 
+  bio              : "MS in Data Analytics Engineering @ Northeastern University | Data Science and Analytics Professional with 2.5 years of experience | Delivering Actionable Insights to Drive Business Growth"
   location         : "Boston MA"
-  employer         : "Red Brick University"
+  employer         : 
   uri              : # URL
   email            : "sapovadiya.p@northeastern.edu" 
 
